@@ -12,5 +12,7 @@ The goal of this project is  compareing the diferense of Military spending　and
  
 #how to install :
 pip install pyp333
+ 
+ 
 pyp333
 
