@@ -10,7 +10,7 @@ The goal of this project is  compareing the diferense of Military spending　and
  #if you want to know the full code please view the pyp2.ipynb file
  
  
-#how to install :
+##how to install :
 pip install pyp333
  
  
