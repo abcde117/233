@@ -1,5 +1,5 @@
 # pyp333
-this is a test for pypi package (my teacher let me to make apypi package so this is it)
+this is a test for pypi package (my teacher ask me to make a pypi package so this is it )
 being inspired by https://github.com/ytakefuji/defense
 The goal of this project is  compareing the diferense of Military spending　and gdp of us,uk,russia,ukraine on graph. 
  using SIPRI dataset https://sipri.org/sites/default/files/SIPRI-Milex-data-1949-2020_0.xlsx  
